@@ -422,7 +422,7 @@ CATALOG = [
     {
         "cat_id": "BOT",
         "title": "🤖🧠BOT SPAM NHẬN KM NẠP ĐẦU ",
-        "desc": "🤖🧠 **👉 Ví dụ giống bot : @Nhan_code_free_bot**\n💰 400K / 1 ",
+        "desc": "🤖🧠 **👉 Giá 400K / 1 ",
         "items": [
             {
                 "item_id": "bot_spam",
